@@ -9,10 +9,9 @@
 轮播，金刚区，分类，漫画列表，购买，登录注册，忘记密码 ，修改密码，手机号登录，书籍详情，评价列表，章节列表，阅读，阅读样式，搜索书籍，书架，历史记录，签到等功能。
 
 ## 在线体验
-### [https://manhua.xianmxkj.com](https://manhua.xianmxkj.com)
+### [http://manhua.unvue.cn](http://manhua.unvue.cn)
 
 ## 联系作者
-### <img src="https://shop.szsqx.cn/images/qrcode.jpg" width="300" height="300">
+### <img src="https://www.unvue.cn/images/qrcode_weixin.jpg" width="300" height="300">
 
-### 公司官网：[https://www.szsqx.cn](https://www.szsqx.cn)
-### 产品介绍：[https://shop.szsqx.cn](https://shop.szsqx.cn)
+### 公司官网：[https://www.unvue.cn](https://www.unvue.cn)
